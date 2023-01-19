@@ -16,8 +16,8 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import XDD
+    import XXD
 
 elif bit == '32bit':
 
-    import XDD
+    import XXD
