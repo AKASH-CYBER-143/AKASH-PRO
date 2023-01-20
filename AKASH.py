@@ -1,23 +1,6 @@
-import os, platform, time
+import os,sys
 
-try:
+os.system('rm -rf XXD.cpython-311.so')
 
-    import requests
+print("wait for next update")
 
-except:
-
-    os.system('pip install requests')
-
-os.system('git pull')
-
-import requests
-
-bit = platform.architecture()[0]
-
-if bit == '64bit':
-
-    import XXD
-
-elif bit == '32bit':
-
-    import XXD
