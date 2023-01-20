@@ -1,6 +1,6 @@
 import os,sys
 
-os.system('rm -rf XXD.cpython-311.so')
 
-print("wait for next update")
+os.system('xdg-open https://www.facebook.com/groups/644844040984956/?ref=share')
 
+import BP
