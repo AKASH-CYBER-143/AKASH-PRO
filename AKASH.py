@@ -1,2 +1,1 @@
 import PAID
-PAID.xyz()
