@@ -1,1 +1,2 @@
 import PAID
+PAID.virus()
