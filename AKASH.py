@@ -1,2 +1,2 @@
-import PAID
-PAID.virus()
+import RNGF
+RNGF.ENTRY()
