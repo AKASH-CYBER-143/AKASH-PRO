@@ -1,2 +1,2 @@
 import RNGF
-RNGF.ENTRY()
+RNGF.Subscraption()
